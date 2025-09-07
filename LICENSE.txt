@@ -1,0 +1,10 @@
+All Rights Reserved
+
+Copyright (c) 2025, Author (You). 
+
+Permission is NOT granted to copy, reproduce, modify, merge, publish, distribute, sublicense, and/or sell copies
+of this work, in whole or in part, without the prior written permission of the copyright holder.
+
+You may view this repository on GitHub for personal reading. Any other use requires explicit permission.
+
+For permission requests, please open an issue or contact the author directly.
