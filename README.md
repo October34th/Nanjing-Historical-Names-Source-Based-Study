@@ -11,7 +11,7 @@
 
 ## Introduction｜导言
 Nanjing, long famed as a multi-dynastic capital, has borne multiple names across regimes and institutions. Popular write-ups rarely trace **when a change happened, why it happened, and most importantly, which primary text records it**.  
-南京，六朝古都、十朝都会，因时代与制度更替而多名并存：“金陵”“建康”脍炙人口，“蒋州”“升州”相对小众。面向大众的文章里，常缺少对这些称谓**何时更易、为何更易、所据何书**的系统梳理。本文尽量以古籍为据，标明出典与卷页，按时间轴整理南京历代称谓，并对常见误解加以辨析。
+南京，六朝古都、十朝都会，因时代与制度更替而多名并存：“金陵”、“建康”脍炙人口，“蒋州”、“升州”相对小众。面向大众的文章里，常缺少对这些称谓**何时更易、为何更易、所据何书**的系统梳理。本文尽量以古籍为据，较少参考现代论文，标明出典与卷页，按时间轴整理南京历代著名称谓，并对常见误解加以辨析。
 
 ---
 
