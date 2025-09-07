@@ -3,7 +3,7 @@
 > **Contents｜目录**
 > - [Intro｜导言](#introduction导言)
 > - [One-Page Timeline｜一页时间轴](#one-page-timeline一页时间轴)
-> - [Full Article｜中文原稿](#Full Article 中文原稿)
+> - [Full Article｜中文原稿](#full-article中文原稿)
 > - [General References｜综合论述文献](#综合论述文献)
 > - [License](#license)
 
@@ -42,7 +42,7 @@ Nanjing, long famed as a multi-dynastic capital, has borne multiple names across
 | 《景定建康志》（地方志） | 周应合       | 南宋，1260年代       |
 | 《宋史》         | 脱脱等       | 元，1340年代        |
 | 《元史》         | 宋濂等       | 明，1360年代        |
-| 《明史》（篡改严重）   | （我拒绝记录）   | 清，1645-1789年    |
+| 《明史》（篡改严重）   | （混乱）   | 清，1645-1789年    |
 | 《清史稿》（非正史）   | 赵尔巽等      | 民国，1910-1920年代  |
 
 
