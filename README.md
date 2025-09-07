@@ -17,8 +17,6 @@ Nanjing, long famed as a multi-dynastic capital, has borne multiple names across
 
 ## One-Page Timeline｜一页时间轴
 
-> **Tip:** The full dataset lives in [`data/timeline.csv`](data/timeline.csv). The table below is a short excerpt for quick reading.
-
 | 名称          | 年代/政权     | 文献出处                                |
 | ----------- | --------- | ----------------------------------- |
 | 金陵、秣陵       | 春秋战国、秦、汉  | 《建康实录》、《景定建康志》                      |
